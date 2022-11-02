@@ -1,0 +1,12 @@
+---
+title: "Midterm_review"
+author: "Yinghui Wang"
+date: '2022-11-02'
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
